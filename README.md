@@ -1,1 +1,1 @@
-# Portfolio
+Welcome to my portfolio repository! 🚀 This repository contains my coursework and lab assignments from the "Special Topics in Programming" course, focusing on Data Science and Data Analytics. I would like to note that laboratory 3 was created by me personally. A lot of work has been done, from finding a worthy replacement for the Spyre library with a more modern one to compiling assignments and teaching materials (which you can view in the Lab3 directory)
